@@ -4,3 +4,5 @@ PS - Because we are utilising div tags rather than canvas tags, the star animati
 
 ![image](https://user-images.githubusercontent.com/70460152/212708140-c0890e49-f230-4756-b416-9efdb5f8c253.png)
 
+Live Demo
+https://starzzzz.netlify.app/
