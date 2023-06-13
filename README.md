@@ -6,3 +6,4 @@ PS - Because we are utilising div tags rather than canvas tags, the star animati
 
 Live Demo
 https://starzzzz.netlify.app/
+You Can Run AnimateStars() Function From Brower's Console To See The Animation.
